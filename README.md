@@ -8,6 +8,12 @@ This is a project template for [Svelte](https://svelte.dev) apps. It lives at ht
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
+Start by installing degit: 
+
+```bash
+npm install -g degit
+```
+
 ```bash
 npx degit sveltejs/template svelte-app
 cd svelte-app
