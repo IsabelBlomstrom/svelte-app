@@ -9,7 +9,7 @@
 <main>
 	<h1>Hej {name}!</h1>
 	<button on:click={handleClick}>
-	Clicked {count}
+	Clicked {count} {count === 1 ? 'time' : 'times'}
 	</button>
 </main>
 
