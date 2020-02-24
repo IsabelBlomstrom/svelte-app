@@ -31,6 +31,8 @@ cd svelte-app
 npm install
 ```
 
+Now you should have all the necessary files to start your project. 
+
 ...then start [Rollup](https://rollupjs.org):
 
 ```bash
